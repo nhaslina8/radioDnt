@@ -1,0 +1,23 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.005333,
+untuk yang teristimewa0.ts
+#EXTINF:10.005333,
+untuk yang teristimewa1.ts
+#EXTINF:10.005333,
+untuk yang teristimewa2.ts
+#EXTINF:9.984000,
+untuk yang teristimewa3.ts
+#EXTINF:10.005333,
+untuk yang teristimewa4.ts
+#EXTINF:10.005333,
+untuk yang teristimewa5.ts
+#EXTINF:10.005333,
+untuk yang teristimewa6.ts
+#EXTINF:9.984000,
+untuk yang teristimewa7.ts
+#EXTINF:5.444522,
+untuk yang teristimewa8.ts
+#EXT-X-ENDLIST
